@@ -1,3 +1,5 @@
+## ╰(*´︶`*)╯Hi! Here is KHLFYY!
+
 ## Welcome to my blog!👋: [[KHLFYY‘s Blog]](https://www.khlfyy.top)
 
 #### 🌱 I’m currently learning coding!
