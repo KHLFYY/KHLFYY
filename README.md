@@ -13,6 +13,9 @@
 
 -----------------------------------------------------------------
 
+<p><div align=center><h2>理想灯塔永不灭 人生航行无止歇</h2>
+<p><div align=center><h4>The ideal beacon will never go out, the voyage of life will never stop.</h4>
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KHLFYY&repo=KHLFYY.github.io&hide_border=true&bg_color=30,7474BF,348AC7&title_color=ffffff&icon_color=ffffff&text_color=ffffff)](https://github.com/KHLFYY/KHLFYY.github.io)
 -->
