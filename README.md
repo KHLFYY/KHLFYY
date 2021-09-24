@@ -1,4 +1,4 @@
-## ╰(*´︶`*)╯Hi! Here is KHLFYY!
+## ੭ ᐕ)੭*⁾⁾Hi! Here is KHLFYY!
 
 ## Welcome to my blog!👋: [[KHLFYY‘s Blog]](https://www.khlfyy.top)
 
