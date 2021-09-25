@@ -4,7 +4,7 @@
 
 #### 🌱 I’m currently learning coding!
 
-<p><div align=center><a href="https://github.com/KHLFYY"><img alt="KHLFYY&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KHLFYY&amp;count_private=true&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=20,1DA1F2,45B649&amp;title_color=E1F5C4&amp;icon_color=F2F2F2&amp;text_color=F2F2F2"/></a></p>
+<p><div align=center><a href="https://github.com/KHLFYY"><img alt="KHLFYY&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KHLFYY&amp;count_private=true&amp;show_icons=true&amp;hide_border=true&amp;bg_color=20,1DA1F2,45B649&amp;title_color=E1F5C4&amp;icon_color=F2F2F2&amp;text_color=F2F2F2"/></a></p>
 <!--
 这一行是html语法 不知道为什么html的居中写到md图片前面就不好使了 所以就全写html了
 -->
